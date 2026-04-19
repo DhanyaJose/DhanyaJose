@@ -1,7 +1,7 @@
 ### I am glad you visited, thank you!
 
 # 🤝 Hi, I'm Dhanya(dej)
-# | [Portfolio]([https://yourlink.com](https://dejavu-five.vercel.app/)) | [LinkedIn]([https://linkedin.com/](https://linkedin.com/in/dej369)) | Contact Me - via LinkedIn |
+# | [Portfolio](https://dejavu-five.vercel.app/) | [LinkedIn](https://linkedin.com/in/dej369) | Contact Me - via LinkedIn |
 
 
 > **"Leadership is not a position or a title; it is action and example."**
